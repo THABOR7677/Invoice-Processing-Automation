@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Account Amount",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "SAUOJ7Gt90Ch0p1lJRIH9A",
+  "Reference": "LCgovVNepEOsPd9mPoIXVQ/SAUOJ7Gt90Ch0p1lJRIH9A",
+  "ParentRef": "LCgovVNepEOsPd9mPoIXVQ/eyOK8MSLm0ail2DND1gKcA",
+  "Created": "2025-06-09T09:56:48.122658Z",
+  "Updated": "2025-06-09T09:56:48.122658Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

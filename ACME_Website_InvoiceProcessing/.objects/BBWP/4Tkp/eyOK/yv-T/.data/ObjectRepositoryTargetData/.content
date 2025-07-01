@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lNGfCH_w9EaLKV53D93IWg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/105362073" CVScreenId="0db3b03f-f91a-40e4-98b8-82baccdfd4da" CvTextArea="471, 352, 72, 13" CvTextArgument="Work Items" CvType="Text" DesignTimeRectangle="472, 351, 71, 16" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Work Items' tag='A' type='' class='' check:innerText='Work Items' /&gt;" Guid="88b9fb42-f2b2-4a83-9816-6d0f69f3ae74" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0db3b03f-f91a-40e4-98b8-82baccdfd4da" CvTextArea="412, 352, 39, 13" CvTextArgument="Home" CvType="Text" DesignTimeRectangle="413, 351, 37, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Home' href='https://acme-test.uipath.com/home' tag='A' type='' class='' check:innerText='Home' /&gt;" Guid="9da6057d-6017-4723-bf71-2c987645f19e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4709835c331a33e8b03394d1fed661c0.png" xmlns="">02UA3SHoqZkiO3YbX3zzJ6Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3EhxKki3skmZjiBKkhug5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="628472a7-b678-4f7c-ab42-636b87e1d0cf" CvElementArea="709, 1, 32, 29" CvType="CloseButton" DesignTimeRectangle="707, 1, 34, 30" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Close' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Close' role='push button' automationid='' check:text='Close' /&gt;" Guid="d3cad1d9-0073-4810-b4b1-a0e6663395e7" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='ClientDetails' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="628472a7-b678-4f7c-ab42-636b87e1d0cf" CvTextArea="299, 55, 146, 21" CvTextArgument="Client Details" CvType="Text" DesignTimeRectangle="20, 40, 708, 52" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlname='label2' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='label2' check:text='Client Details' /&gt;" Guid="382d2a4d-d43f-4742-9e05-ce28dce52ccb" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2bc206e67c42784d110c8b6f23b9079a.png" xmlns="">03XPY3W_r8kicjsbcde1WmQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

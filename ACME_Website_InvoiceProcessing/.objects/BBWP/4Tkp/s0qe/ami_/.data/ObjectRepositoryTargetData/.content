@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kh1emwQGN0ChVDHb8rSa_Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="25, 327, 885, 236" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;wnd ctrlname='listView1' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='listView1' /&gt;" Guid="b19f1c7a-946b-4efd-ad23-8a9d534eda4a" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='ClientAccounts' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9559be9e80ac1d0e3d69376ea73fc195.png" xmlns="">0OfnB2bkdgk6FyzgPmx1Klw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

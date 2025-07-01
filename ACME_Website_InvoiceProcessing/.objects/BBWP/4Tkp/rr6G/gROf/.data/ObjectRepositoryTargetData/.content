@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pTMsdITFrUaDnQnSULDqWg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/105362072" CVScreenId="15c234e0-43de-4af5-aa56-961de24f97d6" CvTextArea="74, 620, 69, 16" CvType="AnyWordGroup" DesignTimeRectangle="75, 617, 68, 20" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='text' tag='SPAN' type='' /&gt;" Guid="41eab379-c2ee-451c-8cc4-05fe0399be57" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="15c234e0-43de-4af5-aa56-961de24f97d6" CvTextArea="74, 568, 36, 16" CvTextArgument="Open" CvType="Text" DesignTimeRectangle="75, 565, 34, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Open' class='text' tag='SPAN' type='' check:innerText='Open' /&gt;" Guid="a64e0cae-5dac-4260-a6b3-a1102e4b03d5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="df0d90aa83595627de75c220191721b2.png" xmlns="">0cxbC03-fMk-NZMFs46Ci2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

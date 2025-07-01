@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into Username",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "MB3ZonyWQ06Q52NNY9wnyA",
+  "Reference": "LCgovVNepEOsPd9mPoIXVQ/MB3ZonyWQ06Q52NNY9wnyA",
+  "ParentRef": "LCgovVNepEOsPd9mPoIXVQ/6dQzQwozeEqqGxhkT2FQvA",
+  "Created": "2025-06-05T08:44:21.5824757Z",
+  "Updated": "2025-06-05T08:44:21.5824757Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

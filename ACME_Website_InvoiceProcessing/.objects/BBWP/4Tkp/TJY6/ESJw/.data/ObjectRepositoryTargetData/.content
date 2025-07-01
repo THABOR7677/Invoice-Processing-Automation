@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WWuP9IXLk02DkmLpBgC82w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="20, 141, 708, 100" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='groupBox1' check:text='Search Form' /&gt;" Guid="febd4a33-8754-4069-a518-7cb30d33b06f" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='SearchingClient' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e22e3f5e-760a-4151-ba5b-98deb6970b47" CvTextArea="250, 55, 245, 21" CvTextArgument="Search for Client by ID" CvType="Text" DesignTimeRectangle="20, 40, 708, 52" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlname='label3' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='label3' check:text='Search for Client by ID' /&gt;" Guid="98f2e526-cba9-40e8-b215-3051e29f2a64" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="311c4b919bf91961870834ce4ceeb4fd.png" xmlns="">0OEw0T3_mj0eiaoxFH_4WSw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

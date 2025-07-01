@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Include inactive clients",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "EbVDdbd1IkCLGX8ppI6b7g",
+  "Reference": "LCgovVNepEOsPd9mPoIXVQ/EbVDdbd1IkCLGX8ppI6b7g",
+  "ParentRef": "LCgovVNepEOsPd9mPoIXVQ/w0vR8yOOE0upsaxnSddWOg",
+  "Created": "2025-06-18T09:43:13.9564483Z",
+  "Updated": "2025-06-18T09:43:13.9564483Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

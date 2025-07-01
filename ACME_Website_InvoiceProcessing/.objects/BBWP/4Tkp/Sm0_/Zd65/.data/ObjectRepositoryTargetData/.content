@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eHJ-S-oLsEOP4zxzD2EQzQ" Reference="LCgovVNepEOsPd9mPoIXVQ/Zd65sK4n7kWNjWyqeQmjtw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="81442f6b-6922-4716-a17a-9c788f8e43cb" CvTextArea="27, 310, 589, 14" CvTextArgument="[In_str_AccNumber +&quot; *&quot;]" CvType="Text" DesignTimeRectangle="22, 306, 675, 19" DesignTimeScaleFactor="1" ElementType="ListItem" FullSelectorArgument="[string.Format(&quot;&lt;wnd ctrlname='listView1' /&gt;&lt;ctrl name='* Address: *' role='list' /&gt;&lt;ctrl name='{0}' role='list item' /&gt;&quot;, In_str_AccNumber)]" FuzzySelectorArgument="[&quot;&lt;wnd ctrlname='listView1' /&gt;&lt;ctrl name='* Address: *' role='list' /&gt;&lt;ctrl name='&quot; +In_str_AccNumber+&quot;' role='list item' automationid='' check:text='&quot; +In_str_AccNumber+&quot;' /&gt;&quot;]" Guid="e91ff677-d7db-4691-9733-9d1176670397" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='ClientAccounts' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="124a24f1cefce1de6e1a9c60cbcdbf14.png" xmlns="">0UXQxymsibkalK7S2atozHQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsVariable="False" Name="In_str_AccNumber" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

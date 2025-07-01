@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Auto Save",
+  "Type": "Element",
+  "Id": "jqbEYa6LRU-Uwf99P4DP_g",
+  "Reference": "LCgovVNepEOsPd9mPoIXVQ/jqbEYa6LRU-Uwf99P4DP_g",
+  "ParentRef": "LCgovVNepEOsPd9mPoIXVQ/6dQzQwozeEqqGxhkT2FQvA",
+  "Created": "2025-06-17T07:18:00.7434034Z",
+  "Updated": "2025-06-17T07:18:00.7434034Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
